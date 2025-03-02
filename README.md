@@ -23,4 +23,4 @@ Un'applicazione web per cercare informazioni sui Pokémon, sviluppata con **HTML
 
 1. **Clona il repository:**
    ```bash
-   git clone https://github.com/FraPier99/search-pokemon.git
+   git clone https://github.com/FraPier99/Pokedex-git
