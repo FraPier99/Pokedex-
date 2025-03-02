@@ -17,7 +17,7 @@ Un'applicazione web per cercare informazioni sui Pokémon, sviluppata con **HTML
 - **CSS3**  
 - **JavaScript (Vanilla JS, Fetch API)**  
 - **PokéAPI** (per ottenere i dati dei Pokémon)  
-- **Google Fonts** (Playwrite AU VIC, Montserrat)  
+
 
 ## 📦 Installazione
 
